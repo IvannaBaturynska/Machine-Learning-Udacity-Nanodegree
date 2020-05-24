@@ -1,0 +1,1 @@
+As a part of "Machine Learning Engineer" nanodegree by Udacity (https://www.udacity.com/), the projects presented in this repository have been conducted by Ivanna Baturynska, and approved by Udacity professional team.
